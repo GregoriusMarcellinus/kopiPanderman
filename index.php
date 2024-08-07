@@ -41,8 +41,8 @@
                 <div class="container">
                     <div class="left">
                         <div class="big-title">
-                            <!-- <h1>KOPI PANDERMAN</h1>
-                            <h2>Produced by "Margo Joyo" Team</h2> -->
+                            <h1>KOPI PANDERMAN</h1>
+                            <h2>Produced by "Margo Joyo" Team</h2>
                         </div>
                         <p class="text">
                             Persembahan kopi terbaik dari Lereng Gunung Panderman Batu, Jawa Timur
